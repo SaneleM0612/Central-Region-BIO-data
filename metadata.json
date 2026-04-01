@@ -1,0 +1,5 @@
+{
+  "name": "Form",
+  "description": "A modern, futuristic web form for collecting team member bio data with Google Sheets integration capabilities.",
+  "requestFramePermissions": []
+}
